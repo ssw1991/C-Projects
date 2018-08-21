@@ -1,0 +1,21 @@
+1>------ Build started: Project: Exercise 5, Configuration: Debug Win32 ------
+1>main.cpp
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(15): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(16): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(16): error C2535: 'void IODevice::operator <<(const int) const': member function already defined or declared
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(15): note: see declaration of 'IODevice::operator <<'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(25): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(31): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(32): error C2535: 'void Graphics::operator <<(const int) const': member function already defined or declared
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(25): note: see declaration of 'Graphics::operator <<'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(44): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(49): error C2143: syntax error: missing ',' before '&'
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(50): error C2535: 'void Mobile::operator <<(const int) const': member function already defined or declared
+1>c:\users\shilo\desktop\advancedcpp\level 1\section 1.5\exercise 5\exercise 5\iodevice.hpp(44): note: see declaration of 'Mobile::operator <<'
+1>Done building project "Exercise 5.vcxproj" -- FAILED.
